@@ -263,6 +263,10 @@ a {
     body {
         overflow-x: hidden;
     }
+
+    #projetos-desenvolvidos {
+        padding-top: 3rem;
+    }
 }
 
 @media (max-width: 767px) {
