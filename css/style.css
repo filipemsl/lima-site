@@ -248,9 +248,7 @@ a {
 }
 
 @media (max-width: 991px) {
-    .btn-custom {
-        margin: 10px 15px;
-    }
+    
     .nav-item a {
         margin-bottom: 20px;
     }
@@ -260,13 +258,14 @@ a {
     h1 {
         font-size: 2em;
     }
-    body {
-        overflow-x: hidden;
+    html {
+        overflow-x: hidden!important;
     }
 
     #projetos-desenvolvidos {
         padding-top: 3rem;
     }
+
 }
 
 @media (max-width: 767px) {
@@ -276,9 +275,11 @@ a {
     .hero-header {
         height: auto;
     }
-    body {
-        overflow-x: hidden;
+
+    .display-4 {
+        font-size: 2.2em;
     }
+
 }
 
 .btn-outline-light {
