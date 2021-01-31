@@ -276,6 +276,9 @@ a {
     .hero-header {
         height: auto;
     }
+    body {
+        overflow-x: hidden;
+    }
 }
 
 .btn-outline-light {
