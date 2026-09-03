@@ -1,0 +1,2 @@
+import{t as e}from"/assets/animate/rolldown-runtime.Dh6celcD.mjs";function t(e,t){return{description:`Product Design Portfolio `,favicon:(location.origin+"/assets/images/image-8f0dc435.png"),robots:`max-image-preview:large`,socialImage:(location.origin+"/assets/images/image-43cb3933.png"),title:`Filipe Lima - Product Designer`}}var n=e((()=>{}));export{t as n,n as t};
+//# sourceMappingURL=shared-lib.zQwQdhGE.mjs.map
