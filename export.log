@@ -1,0 +1,82 @@
+[03:31:09] [info] Source   : [4mhttps://glorious-task-766013.framer.app/[24m
+[03:31:09] [info] Output   : [38;2;250;178;131m/Users/filipelima/Documents/framer-exporter/FramerExport/framer-glorious-task-766013-clean-stack-x1pp[39m
+[03:31:09] [info] Platform : [38;2;250;178;131mFramer[39m
+[03:31:09] [info] DPR      : [38;2;250;178;131m1[39m
+[03:31:09] [info] Subpages : [38;2;127;216;143menabled[39m
+[03:31:09] [log] Output directory structure created
+[03:31:09] [log] Fetching SSR HTML from https://glorious-task-766013.framer.app/
+[03:31:09] [ok] SSR HTML fetched (321.5 KB)
+[03:31:09] [log] Launching headless Chromium...
+[03:31:12] [ok] Chromium launched
+[03:31:14] [log] Stealth hardening applied (Chrome 127.0.6533.88)
+[03:31:14] [log] Viewport set to 1440x900 at 1x DPR
+[03:31:14] [log] Blocking 8 tracking domains:
+[03:31:14] [log]   - sentry.io
+[03:31:14] [log]   - www.googletagmanager.com
+[03:31:14] [log]   - connect.facebook.net
+[03:31:14] [log]   - stats.g.doubleclick.net
+[03:31:14] [log]   - google-analytics.com
+[03:31:14] [log]   - events.framer.com
+[03:31:14] [log]   - api.framer.com
+[03:31:14] [log]   - collect.frameranalytics.com
+[03:31:14] [log] Network interception enabled
+[03:31:14] [info] Navigating to https://glorious-task-766013.framer.app/
+[03:31:15] [ok] Page loaded (networkidle2)
+[03:31:15] [log] Intercepted 24 resources, blocked 1 tracking requests, skipped 1 platform assets
+[03:31:15] [log] Checking DOM-based platform detection...
+[03:31:15] [log] Checking for #main element hydration...
+[03:31:15] [log] Hydration timeout: 10000ms
+[03:31:17] [ok] Hydration complete (SPA rendered)
+[03:31:17] [log] Starting full-page scroll (step: 250px, delay: 60ms)
+[03:31:17] [log] Page height: 3517px (15 scroll steps)
+[03:31:18] [ok] Full-page scroll complete
+[03:31:18] [log] Waiting 2s for lazy-loaded resources...
+[03:31:20] [log] Checking network idle (1.5s quiet, 8s timeout)...
+[03:31:21] [ok] Network idle confirmed
+[03:31:21] [ok] Captured 302 network resources total
+[03:31:21] [log]   CSS: 2 | JS: 285 | Images: 12 | Fonts: 4
+[03:31:21] [log] Scanning page for internal links...
+[03:31:21] [log] Found 5 sub-page links on the home page
+[03:31:21] [log]   Navigating to sub-page: https://glorious-task-766013.framer.app/about-me
+[03:31:24] [log]   Sub-page fetched: 118.5 KB
+[03:31:24] [log]   Saved: subpages/about-me.html
+[03:31:24] [log]   Navigating to sub-page: https://glorious-task-766013.framer.app/projects/amortization-bradesco
+[03:32:54] [log]   Skipped https://glorious-task-766013.framer.app/projects/amortization-bradesco: Navigation timeout of 90000 ms exceeded
+[03:32:54] [log]   Navigating to sub-page: https://glorious-task-766013.framer.app/projects/credit-portability-bradesco
+[03:34:24] [log]   Skipped https://glorious-task-766013.framer.app/projects/credit-portability-bradesco: Navigation timeout of 90000 ms exceeded
+[03:34:24] [log]   Navigating to sub-page: https://glorious-task-766013.framer.app/projects/sigma-gd-serena
+[03:35:54] [log]   Skipped https://glorious-task-766013.framer.app/projects/sigma-gd-serena: Navigation timeout of 90000 ms exceeded
+[03:35:54] [log]   Navigating to sub-page: https://glorious-task-766013.framer.app/projects/cashback-app-project
+[03:37:24] [log]   Skipped https://glorious-task-766013.framer.app/projects/cashback-app-project: Navigation timeout of 90000 ms exceeded
+[03:37:24] [ok] Sub-pages crawled: 1
+[03:37:24] [log] Browser closed
+[03:37:24] [log] Starting download of 312 unique assets
+[03:37:24] [log] Concurrency: 12 parallel downloads
+[03:37:24] [log] Retry policy: 3 attempts, 30000ms timeout
+[03:37:24] [log] Download progress: 32/312 (10%)
+[03:37:24] [log] Download progress: 63/312 (20%)
+[03:37:24] [log] Download progress: 94/312 (30%)
+[03:37:24] [log] Download progress: 125/312 (40%)
+[03:37:24] [log] Download progress: 156/312 (50%)
+[03:37:24] [log] Download progress: 188/312 (60%)
+[03:37:24] [log] Download progress: 219/312 (70%)
+[03:37:24] [log] Download progress: 250/312 (80%)
+[03:37:24] [log] Download progress: 281/312 (90%)
+[03:37:25] [log] Download progress: 312/312 (100%)
+[03:37:25] [ok] Downloads complete: 312 succeeded, 307 from cache, 0 failed
+[03:37:25] [log] Total unique assets written to disk: 326
+[03:37:25] [log] Network buffer cache cleared
+[03:37:31] [ok] Lazy-loaded chunks resolved: 12
+[03:37:31] [log] Starting HTML post-processing...
+[03:37:31] [log] HTML size: 321.5 KB
+[03:37:31] [ok] Index HTML pipeline complete
+[03:37:32] [log] Rewrote URLs in 218 JS/CSS files
+[03:37:33] [ok] Sub-pages linked to local assets: 1/1
+[03:37:33] [ok] All URLs rewritten to local paths
+[03:37:48] [ok] Formatted 295/295 JS/MJS files
+[03:37:48] [log] Writing index.html (316.7 KB)...
+[03:37:48] [ok] index.html written
+[03:37:48] [log] serve.js written
+[03:37:48] [log] package.json written for serve.js
+[03:37:48] [ok] Output build complete
+[03:37:48] [ok] Export complete!
